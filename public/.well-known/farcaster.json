@@ -1,0 +1,36 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "Farcaster AI SocialPilot",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://beae6eeb-25db-4756-bc20-d298421428f3.vercel.app",
+    "imageUrl": "https://beae6eeb-25db-4756-bc20-d298421428f3.vercel.app/image.png",
+    "splashImageUrl": "https://beae6eeb-25db-4756-bc20-d298421428f3.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "webhookUrl": "https://beae6eeb-25db-4756-bc20-d298421428f3.vercel.app/api/webhook",
+    "subtitle": "Built with Zara",
+    "description": "Farcaster AI SocialPilot is a Base Mini App built with Zara.",
+    "screenshotUrls": [
+      "https://beae6eeb-25db-4756-bc20-d298421428f3.vercel.app/screenshot1.png",
+      "https://beae6eeb-25db-4756-bc20-d298421428f3.vercel.app/screenshot2.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "heroImageUrl": "https://beae6eeb-25db-4756-bc20-d298421428f3.vercel.app/hero.png",
+    "tagline": "Farcaster AI SocialPilot",
+    "buttonTitle": "Open mini app",
+    "ogTitle": "Farcaster AI SocialPilot",
+    "ogDescription": "Farcaster AI SocialPilot is a Base Mini App built with Zara.",
+    "ogImageUrl": "https://beae6eeb-25db-4756-bc20-d298421428f3.vercel.app/og-image.png",
+    "castShareUrl": "https://warpcast.com/~/compose?text=Check+out+Farcaster%20AI%20SocialPilot+at+https%3A%2F%2Fbeae6eeb-25db-4756-bc20-d298421428f3.vercel.app"
+  }
+}
