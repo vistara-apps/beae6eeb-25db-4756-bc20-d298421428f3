@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjkxNTIsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgwMmVmNzkwRGQ3OTkzQTM1ZkQ4NDdDMDUzRURkQUU5NDBEMDU1NTk2In0",
+    "payload": "eyJkb21haW4iOiJmYXJjYXN0ZXItYWktc29jaWFscGlsb3QuY29tIn0",
+    "signature": "MHgxMGQwZGU4ZGYwZDUwZTdmMGIxN2YxMTU2NDI1MjRmZTY0MTUyZGU4ZGU1MWU0MThiYjU4ZjVmZmQxYjRjNDBiNGVlZTRhNDcwNmVmNjhlMzQ0ZGQ5MDBkYmQyMmNlMmVlZGY5ZGQ0N2JlNWRmNzMwYzUxNjE4OWVjZDJjY2Y0MDFj"
+  },
+  "frame": {
+    "version": "1",
+    "name": "Farcaster AI-SocialPilot",
+    "homeUrl": "https://farcaster-ai-socialpilot.com",
+    "iconUrl": "https://farcaster-ai-socialpilot.com/icon.png",
+    "splashImageUrl": "https://farcaster-ai-socialpilot.com/splash.png",
+    "splashBackgroundColor": "#0f3d3e",
+    "webhookUrl": "https://farcaster-ai-socialpilot.com/api/webhook",
+    "subtitle": "AI-powered content creation",
+    "description": "Generate engaging captions, discover trending topics, and get smart reply suggestions for your Farcaster community.",
+    "screenshotUrls": [
+      "https://farcaster-ai-socialpilot.com/screenshot1.png",
+      "https://farcaster-ai-socialpilot.com/screenshot2.png",
+      "https://farcaster-ai-socialpilot.com/screenshot3.png"
+    ],
+    "primaryCategory": "social",
+    "tags": ["ai", "content", "social", "farcaster", "community"],
+    "heroImageUrl": "https://farcaster-ai-socialpilot.com/hero.png",
+    "tagline": "Create, engage, grow with AI",
+    "ogTitle": "Farcaster AI-SocialPilot",
+    "ogDescription": "AI assistant for Farcaster content creation and community management",
+    "ogImageUrl": "https://farcaster-ai-socialpilot.com/og.png"
+  }
+}
